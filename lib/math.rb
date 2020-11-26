@@ -6,7 +6,7 @@ end
 
 def subtraction(num1, num2)
   subtraction = (num1 - num2)
-  puts subtration
+  puts subtraction
   subtraction
 end
 
@@ -17,7 +17,7 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-  multiplicaition = (num1 * num2)
+  multiplication = (num1 * num2)
   puts multiplication
   multiplication
 end
